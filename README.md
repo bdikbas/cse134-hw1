@@ -3,3 +3,5 @@
 # PID: A17677949
 
 #Link: https://ucsdhw1.netlify.app/
+#1. Espn site easy to nav, webaim was difficult couldnt find.
+
